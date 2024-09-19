@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **nguyenmythaihoa05@gmail.com**
 
-- ⚡ Fun fact **Make me use all my strongest portfolio**
+- ⚡ Fun fact ** Trying to activate my strongest portfolio**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
