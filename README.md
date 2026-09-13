@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
-<h1 align="center">Hi 👋, I'm xPutie</h1>
+<h1 align="center">Hi 👋, I'm Nguyễn Mỹ Thái Hòa</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=70A5FD&center=true&vCenter=true&width=800&lines=Young+Developer+from+Vietnam+%F0%9F%87%BB%F0%9F%87%B3;Java+%7C+React+%7C+Spring+Boot+%7C+SAP+ABAP;Code.+Learn.+Build.+Repeat." alt="Typing SVG" />
